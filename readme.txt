@@ -1,21 +1,23 @@
 andawi_UI
 =========
 
-WoW UI tweaks by andawi
+WoW UI tweaks for my personal UI
 
 [credits]
-shestak
+  shestak
 
 
-
-[open (generic)]
-* extract artworks from ShestakUI
-* integrate awi modules 
-
-[open (modules)]
-* add maps + map buttons form ShestakUI & change map style to rectangle (like dRecMap)
-
-
+[open]
+  
+  [artwork] 
+    classcolored lines at bottom of UI
+    extract artworks from ShestakUI
+  
+  [maps]
+    addminimap + maps + map buttons form ShestakUI & change minimap style to rectangle (like dRecMap)
+  
+  [integrate awi modules]
+  
 
 
 [done]
