@@ -1,7 +1,7 @@
 andawi_UI
 =========
 
-WoW UI by andawi
+WoW UI tweaks by andawi
 
 [credits]
 shestak
